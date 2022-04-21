@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# SenSurface
 
-You can use the [editor on GitHub](https://github.com/SenSurface/SenSurface.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Toward seamless integration of touch sensing on everyday surfaces
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Why ?
 
-### Markdown
+## How ?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What ?
 
-```markdown
-Syntax highlighted code block
+<!--<img width="285" src="files/perlin.gif"> -->
 
-# Header 1
-## Header 2
-### Header 3
+### Documentation
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Contact
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SenSurface/SenSurface.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Credit
