@@ -18,13 +18,20 @@ The sensitive surfaces fabrication process and codes are shared in the next sect
 
 
 ## How ?
-
 ### Documentation
+
+Fabrication tutorial:
+- [DVIC tutorial](https://dvic.devinci.fr/).
+
+Hardware and software:
+- [SenSurface](https://github.com/SenSurface).
 
 ## Why ?
 
 
-
+More:
+- [De Vinci Innovation Center](https://dvic.devinci.fr/).
+- [Muca](https://github.com/muca-board).
 
 ## Contact
 
