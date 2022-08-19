@@ -46,4 +46,4 @@ More:
  brice.parilusyan@gmail.com
 
 ## Credit
-the Sensurface project was initiated at the [De Vinci Innovation Center](https://dvic.devinci.fr/) by brice Parilusyan, [Marc teyssier](https://marcteyssier.com/)  and [Valentin Martinez-Missir](https://valentinmartinezmissir.com/)
+the Sensurface project was initiated at the [De Vinci Innovation Center](https://dvic.devinci.fr/) by Brice Parilusyan, [Marc teyssier](https://marcteyssier.com/)  and [Valentin Martinez-Missir](https://valentinmartinezmissir.com/)
